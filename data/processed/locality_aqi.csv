@@ -1,0 +1,11 @@
+locality_id,locality_name,area_group,estimated_aqi,aqi_category,dominant_pollutant,pollutants_used,nearest_station,station_distance_km,coverage_label,last_update
+HYD001,Kukatpally,West,382,Very Poor,CO,7,"Sanathnagar, Hyderabad - TSPCB",5.6,extended,15-07-2026 16:00:00
+HYD002,Gachibowli,West,112,Moderately Polluted,CO,7,"Central University, Hyderabad - TSPCB",2.71,nearby,15-07-2026 16:00:00
+HYD003,Hitech City,West,112,Moderately Polluted,CO,7,"Central University, Hyderabad - TSPCB",4.9,nearby,15-07-2026 16:00:00
+HYD004,Madhapur,West,382,Very Poor,CO,7,"Sanathnagar, Hyderabad - TSPCB",4.51,nearby,15-07-2026 16:00:00
+HYD005,Secunderabad,Central,330,Very Poor,CO,7,"Somajiguda, Hyderabad - TSPCB",5.02,extended,15-07-2026 16:00:00
+HYD006,Uppal,East,388,Very Poor,CO,7,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2.84,nearby,15-07-2026 16:00:00
+HYD007,Boduppal,East,388,Very Poor,CO,7,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1.97,nearby,15-07-2026 16:00:00
+HYD008,LB Nagar,Southeast,500,Severe,CO,7,"New Malakpet, Hyderabad - TSPCB",5.47,extended,15-07-2026 16:00:00
+HYD009,Mehdipatnam,Central,330,Very Poor,CO,7,"Somajiguda, Hyderabad - TSPCB",2.97,nearby,15-07-2026 16:00:00
+HYD010,Dilsukhnagar,Southeast,500,Severe,CO,7,"New Malakpet, Hyderabad - TSPCB",1.74,nearby,15-07-2026 16:00:00
