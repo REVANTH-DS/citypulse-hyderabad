@@ -1,3 +1,10 @@
+## LIVE DEMO 
+EXPLORE CITY PULSE HYDERABAD :
+** LIVE APPLICATION :* 
+https://citypulse-hyderabad.streamlit.app/
+Select a Hyderabad locality to explore estimated AQI dominant pollutant , locality-level air quality insights and contextual guidance ...
+
+
 # 🌆 CityPulse Hyderabad
 
 ### Locality-Level Air Quality Intelligence for Hyderabad
