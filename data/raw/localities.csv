@@ -1,0 +1,11 @@
+locality_id,locality_name,latitude,longitude,area_group
+HYD001,Kukatpally,17.4948,78.3996,West
+HYD002,Gachibowli,17.4401,78.3489,West
+HYD003,Hitech City,17.4435,78.3772,West
+HYD004,Madhapur,17.4483,78.3915,West
+HYD005,Secunderabad,17.4399,78.4983,Central
+HYD006,Uppal,17.4058,78.5591,East
+HYD007,Boduppal,17.4139,78.5783,East
+HYD008,LB Nagar,17.3457,78.5522,Southeast
+HYD009,Mehdipatnam,17.3956,78.4408,Central
+HYD010,Dilsukhnagar,17.3688,78.5247,Southeast
