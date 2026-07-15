@@ -1,0 +1,71 @@
+locality_id,locality_name,area_group,pollutant_id,pollutant_avg,pollutant_min,pollutant_max,source_station,station_distance_km,coverage_label,last_update
+HYD001,Kukatpally,West,CO,31.0,24,35,"Sanathnagar, Hyderabad - TSPCB",5.6,extended,15-07-2026 16:00:00
+HYD001,Kukatpally,West,NH3,3.0,2,5,"Central University, Hyderabad - TSPCB",7.92,extended,15-07-2026 16:00:00
+HYD001,Kukatpally,West,NO2,39.0,29,48,"Sanathnagar, Hyderabad - TSPCB",5.6,extended,15-07-2026 16:00:00
+HYD001,Kukatpally,West,OZONE,18.0,14,19,"Sanathnagar, Hyderabad - TSPCB",5.6,extended,15-07-2026 16:00:00
+HYD001,Kukatpally,West,PM10,32.0,10,71,"Central University, Hyderabad - TSPCB",7.92,extended,15-07-2026 16:00:00
+HYD001,Kukatpally,West,PM2.5,29.0,11,60,"Sanathnagar, Hyderabad - TSPCB",5.6,extended,15-07-2026 16:00:00
+HYD001,Kukatpally,West,SO2,11.0,5,19,"Sanathnagar, Hyderabad - TSPCB",5.6,extended,15-07-2026 16:00:00
+HYD002,Gachibowli,West,CO,3.0,1,6,"Central University, Hyderabad - TSPCB",2.71,nearby,15-07-2026 16:00:00
+HYD002,Gachibowli,West,NH3,3.0,2,5,"Central University, Hyderabad - TSPCB",2.71,nearby,15-07-2026 16:00:00
+HYD002,Gachibowli,West,NO2,21.0,11,32,"Central University, Hyderabad - TSPCB",2.71,nearby,15-07-2026 16:00:00
+HYD002,Gachibowli,West,OZONE,10.0,5,12,"Central University, Hyderabad - TSPCB",2.71,nearby,15-07-2026 16:00:00
+HYD002,Gachibowli,West,PM10,32.0,10,71,"Central University, Hyderabad - TSPCB",2.71,nearby,15-07-2026 16:00:00
+HYD002,Gachibowli,West,PM2.5,28.0,12,56,"Central University, Hyderabad - TSPCB",2.71,nearby,15-07-2026 16:00:00
+HYD002,Gachibowli,West,SO2,7.0,4,11,"Central University, Hyderabad - TSPCB",2.71,nearby,15-07-2026 16:00:00
+HYD003,Hitech City,West,CO,3.0,1,6,"Central University, Hyderabad - TSPCB",4.9,nearby,15-07-2026 16:00:00
+HYD003,Hitech City,West,NH3,3.0,2,5,"Central University, Hyderabad - TSPCB",4.9,nearby,15-07-2026 16:00:00
+HYD003,Hitech City,West,NO2,21.0,11,32,"Central University, Hyderabad - TSPCB",4.9,nearby,15-07-2026 16:00:00
+HYD003,Hitech City,West,OZONE,10.0,5,12,"Central University, Hyderabad - TSPCB",4.9,nearby,15-07-2026 16:00:00
+HYD003,Hitech City,West,PM10,32.0,10,71,"Central University, Hyderabad - TSPCB",4.9,nearby,15-07-2026 16:00:00
+HYD003,Hitech City,West,PM2.5,28.0,12,56,"Central University, Hyderabad - TSPCB",4.9,nearby,15-07-2026 16:00:00
+HYD003,Hitech City,West,SO2,7.0,4,11,"Central University, Hyderabad - TSPCB",4.9,nearby,15-07-2026 16:00:00
+HYD004,Madhapur,West,CO,31.0,24,35,"Sanathnagar, Hyderabad - TSPCB",4.51,nearby,15-07-2026 16:00:00
+HYD004,Madhapur,West,NH3,3.0,2,5,"Central University, Hyderabad - TSPCB",6.2,extended,15-07-2026 16:00:00
+HYD004,Madhapur,West,NO2,39.0,29,48,"Sanathnagar, Hyderabad - TSPCB",4.51,nearby,15-07-2026 16:00:00
+HYD004,Madhapur,West,OZONE,18.0,14,19,"Sanathnagar, Hyderabad - TSPCB",4.51,nearby,15-07-2026 16:00:00
+HYD004,Madhapur,West,PM10,32.0,10,71,"Central University, Hyderabad - TSPCB",6.2,extended,15-07-2026 16:00:00
+HYD004,Madhapur,West,PM2.5,29.0,11,60,"Sanathnagar, Hyderabad - TSPCB",4.51,nearby,15-07-2026 16:00:00
+HYD004,Madhapur,West,SO2,11.0,5,19,"Sanathnagar, Hyderabad - TSPCB",4.51,nearby,15-07-2026 16:00:00
+HYD005,Secunderabad,Central,CO,22.0,18,26,"Somajiguda, Hyderabad - TSPCB",5.02,extended,15-07-2026 16:00:00
+HYD005,Secunderabad,Central,NH3,3.0,3,4,"Somajiguda, Hyderabad - TSPCB",5.02,extended,15-07-2026 16:00:00
+HYD005,Secunderabad,Central,NO2,15.0,15,16,"Somajiguda, Hyderabad - TSPCB",5.02,extended,15-07-2026 16:00:00
+HYD005,Secunderabad,Central,OZONE,19.0,17,19,"Somajiguda, Hyderabad - TSPCB",5.02,extended,15-07-2026 16:00:00
+HYD005,Secunderabad,Central,PM10,57.0,50,73,"New Malakpet, Hyderabad - TSPCB",7.62,extended,15-07-2026 16:00:00
+HYD005,Secunderabad,Central,PM2.5,29.0,11,60,"Sanathnagar, Hyderabad - TSPCB",7.13,extended,15-07-2026 16:00:00
+HYD005,Secunderabad,Central,SO2,11.0,9,13,"Somajiguda, Hyderabad - TSPCB",5.02,extended,15-07-2026 16:00:00
+HYD006,Uppal,East,CO,32.0,21,36,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2.84,nearby,15-07-2026 16:00:00
+HYD006,Uppal,East,NH3,6.0,5,7,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2.84,nearby,15-07-2026 16:00:00
+HYD006,Uppal,East,NO2,14.0,13,16,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2.84,nearby,15-07-2026 16:00:00
+HYD006,Uppal,East,OZONE,29.0,25,32,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2.84,nearby,15-07-2026 16:00:00
+HYD006,Uppal,East,PM10,71.0,67,77,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2.84,nearby,15-07-2026 16:00:00
+HYD006,Uppal,East,PM2.5,45.0,41,53,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2.84,nearby,15-07-2026 16:00:00
+HYD006,Uppal,East,SO2,11.0,10,15,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2.84,nearby,15-07-2026 16:00:00
+HYD007,Boduppal,East,CO,32.0,21,36,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1.97,nearby,15-07-2026 16:00:00
+HYD007,Boduppal,East,NH3,6.0,5,7,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1.97,nearby,15-07-2026 16:00:00
+HYD007,Boduppal,East,NO2,14.0,13,16,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1.97,nearby,15-07-2026 16:00:00
+HYD007,Boduppal,East,OZONE,29.0,25,32,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1.97,nearby,15-07-2026 16:00:00
+HYD007,Boduppal,East,PM10,71.0,67,77,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1.97,nearby,15-07-2026 16:00:00
+HYD007,Boduppal,East,PM2.5,45.0,41,53,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1.97,nearby,15-07-2026 16:00:00
+HYD007,Boduppal,East,SO2,11.0,10,15,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1.97,nearby,15-07-2026 16:00:00
+HYD008,LB Nagar,Southeast,CO,38.0,30,44,"New Malakpet, Hyderabad - TSPCB",5.47,extended,15-07-2026 16:00:00
+HYD008,LB Nagar,Southeast,NH3,3.0,2,4,"New Malakpet, Hyderabad - TSPCB",5.47,extended,15-07-2026 16:00:00
+HYD008,LB Nagar,Southeast,NO2,15.0,12,18,"New Malakpet, Hyderabad - TSPCB",5.47,extended,15-07-2026 16:00:00
+HYD008,LB Nagar,Southeast,OZONE,28.0,25,32,"New Malakpet, Hyderabad - TSPCB",5.47,extended,15-07-2026 16:00:00
+HYD008,LB Nagar,Southeast,PM10,57.0,50,73,"New Malakpet, Hyderabad - TSPCB",5.47,extended,15-07-2026 16:00:00
+HYD008,LB Nagar,Southeast,PM2.5,37.0,24,68,"New Malakpet, Hyderabad - TSPCB",5.47,extended,15-07-2026 16:00:00
+HYD008,LB Nagar,Southeast,SO2,11.0,8,15,"New Malakpet, Hyderabad - TSPCB",5.47,extended,15-07-2026 16:00:00
+HYD009,Mehdipatnam,Central,CO,22.0,18,26,"Somajiguda, Hyderabad - TSPCB",2.97,nearby,15-07-2026 16:00:00
+HYD009,Mehdipatnam,Central,NH3,3.0,3,4,"Somajiguda, Hyderabad - TSPCB",2.97,nearby,15-07-2026 16:00:00
+HYD009,Mehdipatnam,Central,NO2,15.0,15,16,"Somajiguda, Hyderabad - TSPCB",2.97,nearby,15-07-2026 16:00:00
+HYD009,Mehdipatnam,Central,OZONE,19.0,17,19,"Somajiguda, Hyderabad - TSPCB",2.97,nearby,15-07-2026 16:00:00
+HYD009,Mehdipatnam,Central,PM10,50.0,25,83,"Zoo Park, Hyderabad - TSPCB",5.23,extended,15-07-2026 16:00:00
+HYD009,Mehdipatnam,Central,PM2.5,47.0,23,87,"Zoo Park, Hyderabad - TSPCB",5.23,extended,15-07-2026 16:00:00
+HYD009,Mehdipatnam,Central,SO2,11.0,9,13,"Somajiguda, Hyderabad - TSPCB",2.97,nearby,15-07-2026 16:00:00
+HYD010,Dilsukhnagar,Southeast,CO,38.0,30,44,"New Malakpet, Hyderabad - TSPCB",1.74,nearby,15-07-2026 16:00:00
+HYD010,Dilsukhnagar,Southeast,NH3,3.0,2,4,"New Malakpet, Hyderabad - TSPCB",1.74,nearby,15-07-2026 16:00:00
+HYD010,Dilsukhnagar,Southeast,NO2,15.0,12,18,"New Malakpet, Hyderabad - TSPCB",1.74,nearby,15-07-2026 16:00:00
+HYD010,Dilsukhnagar,Southeast,OZONE,28.0,25,32,"New Malakpet, Hyderabad - TSPCB",1.74,nearby,15-07-2026 16:00:00
+HYD010,Dilsukhnagar,Southeast,PM10,57.0,50,73,"New Malakpet, Hyderabad - TSPCB",1.74,nearby,15-07-2026 16:00:00
+HYD010,Dilsukhnagar,Southeast,PM2.5,37.0,24,68,"New Malakpet, Hyderabad - TSPCB",1.74,nearby,15-07-2026 16:00:00
+HYD010,Dilsukhnagar,Southeast,SO2,11.0,8,15,"New Malakpet, Hyderabad - TSPCB",1.74,nearby,15-07-2026 16:00:00

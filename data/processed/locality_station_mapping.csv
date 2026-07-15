@@ -1,0 +1,11 @@
+locality_id,locality_name,locality_latitude,locality_longitude,area_group,station_name,station_latitude,station_longitude,distance_km,coverage_label
+HYD001,Kukatpally,17.4948,78.3996,West,"Sanathnagar, Hyderabad - TSPCB",17.4559458,78.4332152,5.6,extended
+HYD002,Gachibowli,17.4401,78.3489,West,"Central University, Hyderabad - TSPCB",17.460103,78.334361,2.71,nearby
+HYD003,Hitech City,17.4435,78.3772,West,"Central University, Hyderabad - TSPCB",17.460103,78.334361,4.9,nearby
+HYD004,Madhapur,17.4483,78.3915,West,"Sanathnagar, Hyderabad - TSPCB",17.4559458,78.4332152,4.51,nearby
+HYD005,Secunderabad,17.4399,78.4983,Central,"Somajiguda, Hyderabad - TSPCB",17.417094,78.457437,5.02,extended
+HYD006,Uppal,17.4058,78.5591,East,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",17.429398,78.569354,2.84,nearby
+HYD007,Boduppal,17.4139,78.5783,East,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",17.429398,78.569354,1.97,nearby
+HYD008,LB Nagar,17.3457,78.5522,Southeast,"New Malakpet, Hyderabad - TSPCB",17.37206,78.50864,5.47,extended
+HYD009,Mehdipatnam,17.3956,78.4408,Central,"Somajiguda, Hyderabad - TSPCB",17.417094,78.457437,2.97,nearby
+HYD010,Dilsukhnagar,17.3688,78.5247,Southeast,"New Malakpet, Hyderabad - TSPCB",17.37206,78.50864,1.74,nearby

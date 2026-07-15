@@ -109,4 +109,4 @@ These features may be evaluated in future versions based on data availability an
 
 ## Project Status
 
-V1 - In Development
+V1 - In Developments
